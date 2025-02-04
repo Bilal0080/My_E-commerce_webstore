@@ -1,0 +1,14 @@
+/* styles.css */
+.map-container {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.map-container h2 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+iframe {
+    border-radius: 8px;
+}
